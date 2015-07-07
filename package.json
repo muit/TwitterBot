@@ -1,0 +1,28 @@
+{
+  "name": "ctbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/muit/ctbot"
+  },
+  "keywords": [
+    "bot",
+    "counter",
+    "terrorist",
+    "cs",
+    "go",
+    "strike"
+  ],
+  "author": "muitxer <miguel_3c@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "mongoose": "^4.0.6",
+    "mongoose-relationship": "^0.1.4",
+    "twit": "^2.1.0"
+  }
+}
