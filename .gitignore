@@ -19,3 +19,5 @@ npm-debug.log.*
 *.pem
 connect.sh
 password*
+
+config.js
