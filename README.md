@@ -14,8 +14,11 @@ module.exports = {
   autoRetweet: true,
 
   markov: {
+    enabled: true,
     separator: " ",
     order: 2
-  }
+  },
+
+  lang: 'es, en'
 }
 ```

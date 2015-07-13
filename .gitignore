@@ -21,3 +21,5 @@ connect.sh
 password*
 
 config.js
+saved_count.json
+saved_memory.json
