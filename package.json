@@ -22,6 +22,6 @@
   "author": "muitxer <miguel_3c@hotmail.com>",
   "license": "MIT",
   "dependencies": {
-    "twit": "^2.1.0"
+    "twitter": "^1.7.1"
   }
 }

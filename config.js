@@ -1,16 +1,16 @@
 module.exports = {
   twitter: {
-    consumer_key: 'zDixHmai0n80oa6g4lXTGLcav',
-    consumer_secret: 'QDkSIu3Z9tu3Syu4Sdq7aLpXVilbC6U1YY1jDHauBmWNHCs54x',
-    access_token: '3362263109-yXRkt5zRhdUqC37zdSnPivPvbcwwoaqlVjF7qr6',
-    access_token_secret: '2iddxACNgdHVB913KupAWiq2fxgr2bzM7OezPmOboTlCz'
+    consumer_key: 'KccbIk03vJAsp6SivHIXXayVh',
+    consumer_secret: 'NYkEroOPary4FV70Xy7oWNHdMTzQgN5toCSsdyPMLqzWgdFuWW',
+    access_token_key: '727836772827279360-oajkfk9RLpRgTXUAodpMeHLbLsA4DCk',
+    access_token_secret: 'DAVzVI03osvdi53qYHN5OM4c811B9ccKGQLWs6rFeOjDG'
   },
 
   autoFollow: true,
-  autoRetweet: true,
+  autoRetweet: false,
 
   markov: {
-    enabled: true,
+    enabled: false,
     separator: " ",
     order: 1
   },
